@@ -1,0 +1,39 @@
+body{
+    background-color: white;
+    padding: 30px;
+    text-align: left;
+    text-indent: 20px;
+}
+h1{
+    color: blue;
+    text-align: left;
+    text-indent: 20px;
+}
+h2,h3{
+    color: black;
+    text-align: justify;
+    text-indent: 20px;
+}
+nav ul li{
+    list-style: none;
+    display: inline;
+    margin-left: 70px;
+}
+header{
+    background-color: #d27d56;
+    padding: 5px;
+    position: sticky;
+    top: 0;
+}
+nav a{
+    text-decoration: none;
+    text-decoration-color: white;
+}
+img{
+    background-image: url(./paradigm\ lounge.jpg);
+            background-size: cover;
+            background-position: center center;
+            background-repeat: no-repeat;
+            height: 100vh;
+            margin: 0;
+}
